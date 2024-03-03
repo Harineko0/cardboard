@@ -101,7 +101,7 @@ dependencies {
     // NMS Remapping
     // srglib-0.1.2.jar
     extraLibs fileTree(dir: 'libs', include: "srglib-0.1.2.jar")
-    include(modImplementation("com.github.IsaiahPatton:SpecialSource:master-SNAPSHOT"))
+    include(modImplementation("com.github.Harineko0:SpecialSource:1.0"))
 
     compileOnly fileTree(dir: 'libs', include: "srglib-0.1.2.jar")
 

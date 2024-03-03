@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "cardboard",
-  "version": "${version}",
+  "version": "1.20",
 
   "name": "Cardboard",
   "description": "An implementation of the popular Spigot/Paper API for Fabric",
